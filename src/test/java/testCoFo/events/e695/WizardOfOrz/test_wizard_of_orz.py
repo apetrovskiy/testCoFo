@@ -1,6 +1,7 @@
+from src.main.java.testCoFo.events.e695.WizardOfOrz.wizard_of_orz import wizard_of_orz
 import pytest
 from typing import List
-# from src.main.java.testCoFo.events.e695.WizardOfOrz.wizard_of_orz import wizard_of_orz
+
 
 test_data = [
     (2, [1, 2], ["9", "98"])
