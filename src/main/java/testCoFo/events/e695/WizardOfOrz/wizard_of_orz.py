@@ -1,0 +1,1 @@
+def wizard_of_orz():
