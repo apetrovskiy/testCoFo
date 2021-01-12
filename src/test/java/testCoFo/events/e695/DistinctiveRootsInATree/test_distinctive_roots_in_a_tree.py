@@ -10,6 +10,6 @@ test_data = [
 
 
 @ pytest.mark.parametrize("number,numbers,input_data,expected_result", test_data)
-def test_wizard_of_orz(number: int, numbers: List[int], input_data: List[List[int]], expected_result: int):
+def test_distinctive_roots_in_a_tree(number: int, numbers: List[int], input_data: List[List[int]], expected_result: int):
     assert expected_result == distinctive_roots_in_a_tree(
         number, numbers, input_data)

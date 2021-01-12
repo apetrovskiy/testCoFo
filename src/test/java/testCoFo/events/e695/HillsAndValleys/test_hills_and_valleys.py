@@ -10,5 +10,5 @@ test_data = [
 
 
 @pytest.mark.parametrize("number,input_data,expected_result", test_data)
-def test_wizard_of_orz(number: int, input_data: List[List[int]], expected_result: List[int]):
+def test_hills_and_valleys(number: int, input_data: List[List[int]], expected_result: List[int]):
     assert expected_result == hills_and_valleys(number, input_data)

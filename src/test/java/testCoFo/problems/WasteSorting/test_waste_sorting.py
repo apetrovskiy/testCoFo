@@ -10,5 +10,5 @@ test_data = [
 
 
 @ pytest.mark.parametrize("number,cases,expected_result", test_data)
-def test_wizard_of_orz(number: int, cases: List[List[int]], expected_result: List[str]):
+def test_waste_sorting(number: int, cases: List[List[int]], expected_result: List[str]):
     assert expected_result == waste_sorting(number, cases)

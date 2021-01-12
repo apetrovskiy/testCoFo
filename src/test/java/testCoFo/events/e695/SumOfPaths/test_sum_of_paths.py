@@ -12,5 +12,5 @@ test_data = [
 
 
 @pytest.mark.parametrize("numbers,numbers2,input_data,expected_result", test_data)
-def test_wizard_of_orz(numbers: List[int], numbers2: List[int], input_data: List[List[int]], expected_result: List[int]):
+def test_sum_of_pathsz(numbers: List[int], numbers2: List[int], input_data: List[List[int]], expected_result: List[int]):
     assert expected_result == sum_of_paths(numbers, numbers2, input_data)
