@@ -1,0 +1,68 @@
+{
+  "uid" : "ee8ff3e77afeab15",
+  "name" : "test_three_bags[numbers0-input_data0-20]",
+  "fullName" : "src.test.java.testCoFo.events.e695.ThreeBags.test_three_bags#test_three_bags",
+  "historyId" : "00407123092af9fd996419f0404c736c",
+  "time" : {
+    "start" : 1618433481603,
+    "stop" : 1618433481604,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 20 == 0\n +  where 0 = three_bags([2, 4, 1], [[1, 2], [6, 3, 4, 5], [5]])",
+  "statusTrace" : "numbers = [2, 4, 1], input_data = [[1, 2], [6, 3, 4, 5], [5]]\nexpected_result = 20\n\n    @pytest.mark.parametrize(\"numbers,input_data,expected_result\", test_data)\n    def test_three_bags(numbers: List[int],\n                        input_data: List[List[int]], expected_result: int):\n>       assert expected_result == three_bags(numbers, input_data)\nE       assert 20 == 0\nE        +  where 0 = three_bags([2, 4, 1], [[1, 2], [6, 3, 4, 5], [5]])\n\nsrc/test/java/testCoFo/events/e695/ThreeBags/test_three_bags.py:15: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCoFo.events.e695.ThreeBags"
+  }, {
+    "name" : "suite",
+    "value" : "test_three_bags"
+  }, {
+    "name" : "host",
+    "value" : "fv-az196-261"
+  }, {
+    "name" : "thread",
+    "value" : "3093-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCoFo.events.e695.ThreeBags.test_three_bags"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "20"
+  }, {
+    "name" : "input_data",
+    "value" : "[[1, 2], [6, 3, 4, 5], [5]]"
+  }, {
+    "name" : "numbers",
+    "value" : "[2, 4, 1]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ee8ff3e77afeab15.json",
+  "parameterValues" : [ "20", "[[1, 2], [6, 3, 4, 5], [5]]", "[2, 4, 1]" ]
+}
