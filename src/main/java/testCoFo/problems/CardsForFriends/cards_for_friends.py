@@ -22,5 +22,6 @@ def cards_for_friends(number: int, cases: List[List[int]]) -> List[str]:
                 height_number += 1
             else:
                 break
-        result.append('YES' if width_number * height_number >= number_of_recipients else 'NO')
+        result.append('YES' if width_number * height_number >=
+                      number_of_recipients else 'NO')
     return result

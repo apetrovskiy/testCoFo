@@ -2,7 +2,8 @@ from typing import List
 
 
 def waste_sorting(number: int, cases: List[List[int]]) -> List[str]:
-    return ['YES' if calculate_waste(cases[index][0], cases[index][1]) == True else 'NO' for index in range(0, number)]
+    return ['YES' if calculate_waste(cases[index][0], cases[index][1])
+            is True else 'NO' for index in range(0, number)]
 
 
 def calculate_waste(containers: List[int], waste: List[int]) -> bool:

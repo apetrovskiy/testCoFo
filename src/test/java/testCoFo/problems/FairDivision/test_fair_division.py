@@ -1,4 +1,5 @@
-from src.main.java.testCoFo.problems.FairDivision.fair_division import fair_division
+from src.main.java.testCoFo.problems.FairDivision.fair_division \
+    import fair_division
 import pytest
 from typing import List
 
@@ -10,5 +11,6 @@ test_data = [
 
 
 @ pytest.mark.parametrize("number,cases,expected_result", test_data)
-def test_fair_division(number: int, cases: List[List[int]], expected_result: List[str]):
+def test_fair_division(number: int,
+                       cases: List[List[int]], expected_result: List[str]):
     assert expected_result == fair_division(number, cases)

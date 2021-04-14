@@ -1,4 +1,5 @@
-from src.main.java.testCoFo.problems.CardsForFriends.cards_for_friends import cards_for_friends
+from src.main.java.testCoFo.problems.CardsForFriends.cards_for_friends \
+    import cards_for_friends
 import pytest
 from typing import List
 
@@ -10,5 +11,6 @@ test_data = [
 
 
 @ pytest.mark.parametrize("number,cases,expected_result", test_data)
-def test_cards_for_friends(number: int, cases: List[List[int]], expected_result: List[str]):
+def test_cards_for_friends(number: int,
+                           cases: List[List[int]], expected_result: List[str]):
     assert expected_result == cards_for_friends(number, cases)
