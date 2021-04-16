@@ -1,0 +1,102 @@
+{
+  "uid" : "d941d219e508fb01",
+  "name" : "test_sum_of_pathsz[numbers0-numbers20-input_data0-expected_result0]",
+  "fullName" : "src.test.java.testCoFo.events.e695.SumOfPaths.test_sum_of_paths#test_sum_of_pathsz",
+  "historyId" : "b32d7c9d464c44502046cae2e7dc0e67",
+  "time" : {
+    "start" : 1618555445782,
+    "stop" : 1618555445782,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert [62, 58, 78, 86, 86] == []\n  Left contains 5 more items, first extra item: 62\n  Use -v to get the full diff",
+  "statusTrace" : "numbers = [5, 1, 5], numbers2 = [3, 5, 1, 4, 2]\ninput_data = [[1, 9], [2, 4], [3, 6], [4, 6], [5, 2]]\nexpected_result = [62, 58, 78, 86, 86]\n\n    @pytest.mark.parametrize(\n        \"numbers,numbers2,input_data,expected_result\", test_data)\n    def test_sum_of_pathsz(numbers: List[int],\n                           numbers2: List[int],\n                           input_data: List[List[int]],\n                           expected_result: List[int]):\n>       assert expected_result == sum_of_paths(numbers, numbers2, input_data)\nE       assert [62, 58, 78, 86, 86] == []\nE         Left contains 5 more items, first extra item: 62\nE         Use -v to get the full diff\n\nsrc/test/java/testCoFo/events/e695/SumOfPaths/test_sum_of_paths.py:23: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCoFo.events.e695.SumOfPaths"
+  }, {
+    "name" : "suite",
+    "value" : "test_sum_of_paths"
+  }, {
+    "name" : "host",
+    "value" : "fv-az129-88"
+  }, {
+    "name" : "thread",
+    "value" : "3127-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCoFo.events.e695.SumOfPaths.test_sum_of_paths"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "[62, 58, 78, 86, 86]"
+  }, {
+    "name" : "input_data",
+    "value" : "[[1, 9], [2, 4], [3, 6], [4, 6], [5, 2]]"
+  }, {
+    "name" : "numbers",
+    "value" : "[5, 1, 5]"
+  }, {
+    "name" : "numbers2",
+    "value" : "[3, 5, 1, 4, 2]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "40c0004d6fc674b2",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/23//#testresult/40c0004d6fc674b2",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert [62, 58, 78, 86, 86] == []\n  Left contains 5 more items, first extra item: 62\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1618434886625,
+          "stop" : 1618434886625,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5f55a429641b6214",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/5f55a429641b6214",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert [62, 58, 78, 86, 86] == []\n  Left contains 5 more items, first extra item: 62\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1618433481592,
+          "stop" : 1618433481592,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d941d219e508fb01.json",
+  "parameterValues" : [ "[62, 58, 78, 86, 86]", "[[1, 9], [2, 4], [3, 6], [4, 6], [5, 2]]", "[5, 1, 5]", "[3, 5, 1, 4, 2]" ]
+}
