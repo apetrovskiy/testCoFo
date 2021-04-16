@@ -1,0 +1,99 @@
+{
+  "uid" : "ae4b11df519eed96",
+  "name" : "test_three_bags[numbers1-input_data1-29]",
+  "fullName" : "src.test.java.testCoFo.events.e695.ThreeBags.test_three_bags#test_three_bags",
+  "historyId" : "7bd9f9804c64babcea02404dd060c26d",
+  "time" : {
+    "start" : 1618555443443,
+    "stop" : 1618555443444,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 29 == 0\n +  where 0 = three_bags([3, 2, 2], [[7, 5, 4], [2, 9], [7, 1]])",
+  "statusTrace" : "numbers = [3, 2, 2], input_data = [[7, 5, 4], [2, 9], [7, 1]]\nexpected_result = 29\n\n    @pytest.mark.parametrize(\"numbers,input_data,expected_result\", test_data)\n    def test_three_bags(numbers: List[int],\n                        input_data: List[List[int]], expected_result: int):\n>       assert expected_result == three_bags(numbers, input_data)\nE       assert 29 == 0\nE        +  where 0 = three_bags([3, 2, 2], [[7, 5, 4], [2, 9], [7, 1]])\n\nsrc/test/java/testCoFo/events/e695/ThreeBags/test_three_bags.py:15: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCoFo.events.e695.ThreeBags"
+  }, {
+    "name" : "suite",
+    "value" : "test_three_bags"
+  }, {
+    "name" : "host",
+    "value" : "fv-az182-463"
+  }, {
+    "name" : "thread",
+    "value" : "3025-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCoFo.events.e695.ThreeBags.test_three_bags"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "29"
+  }, {
+    "name" : "input_data",
+    "value" : "[[7, 5, 4], [2, 9], [7, 1]]"
+  }, {
+    "name" : "numbers",
+    "value" : "[3, 2, 2]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "799a05c70bdb691d",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/23//#testresult/799a05c70bdb691d",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 29 == 0\n +  where 0 = three_bags([3, 2, 2], [[7, 5, 4], [2, 9], [7, 1]])",
+        "time" : {
+          "start" : 1618434886640,
+          "stop" : 1618434886640,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3fb00bf04b7218c9",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/3fb00bf04b7218c9",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 29 == 0\n +  where 0 = three_bags([3, 2, 2], [[7, 5, 4], [2, 9], [7, 1]])",
+        "time" : {
+          "start" : 1618433481608,
+          "stop" : 1618433481609,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ae4b11df519eed96.json",
+  "parameterValues" : [ "29", "[[7, 5, 4], [2, 9], [7, 1]]", "[3, 2, 2]" ]
+}
