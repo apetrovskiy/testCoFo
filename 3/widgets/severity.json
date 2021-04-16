@@ -1,0 +1,121 @@
+[ {
+  "uid" : "d346db7b79a3d5c1",
+  "name" : "test_three_bags[numbers0-input_data0-20]",
+  "time" : {
+    "start" : 1618612083963,
+    "stop" : 1618612083963,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f56405c4597903d9",
+  "name" : "test_waste_sorting[7-cases0-expected_result0]",
+  "time" : {
+    "start" : 1618612083974,
+    "stop" : 1618612083974,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0a4e34342c98d7e",
+  "name" : "test_sum_of_pathsz[numbers0-numbers20-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1618612083960,
+    "stop" : 1618612083960,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b7030079dce6bbe5",
+  "name" : "test_wizard_of_orz[2-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1618612083966,
+    "stop" : 1618612083966,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7c3d9d77b43f69c2",
+  "name" : "test_three_bags[numbers1-input_data1-29]",
+  "time" : {
+    "start" : 1618612083964,
+    "stop" : 1618612083964,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e2def2bc63856282",
+  "name" : "test_hills_and_valleys[4-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1618612083958,
+    "stop" : 1618612083958,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "db0783c76193526",
+  "name" : "test_cards_for_friends[5-cases0-expected_result0]",
+  "time" : {
+    "start" : 1618612083967,
+    "stop" : 1618612083967,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a991425cdbe3989a",
+  "name" : "test_fair_division[5-cases0-expected_result0]",
+  "time" : {
+    "start" : 1618612083969,
+    "stop" : 1618612083969,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5ef0af5f9e7ae077",
+  "name" : "test_distinctive_roots_in_a_tree[5-numbers0-input_data0-3]",
+  "time" : {
+    "start" : 1618612083940,
+    "stop" : 1618612083940,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7fa39d67a82bd56a",
+  "name" : "test_distinctive_roots_in_a_tree[5-numbers1-input_data1-0]",
+  "time" : {
+    "start" : 1618612083956,
+    "stop" : 1618612083956,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c27cc558b73feaeb",
+  "name" : "test_four_segments[4-cases0-expected_result0]",
+  "time" : {
+    "start" : 1618612083971,
+    "stop" : 1618612083971,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "bb8047cddcaa60b0",
+  "name" : "test_sum_of_pathsz[numbers1-numbers21-input_data1-expected_result1]",
+  "time" : {
+    "start" : 1618612083961,
+    "stop" : 1618612083961,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
