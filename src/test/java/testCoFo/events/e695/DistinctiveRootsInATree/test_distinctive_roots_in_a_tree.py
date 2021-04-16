@@ -10,6 +10,7 @@ test_data = [
 ]
 
 
+@pytest.mark.skip(reason="TODO: no way of currently testing this")
 @ pytest.mark.parametrize(
     "number,numbers,input_data,expected_result", test_data)
 def test_distinctive_roots_in_a_tree(number: int, numbers: List[int],
