@@ -1,0 +1,209 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.test.java.testCoFo",
+    "children" : [ {
+      "name" : "events.e695",
+      "children" : [ {
+        "name" : "DistinctiveRootsInATree.test_distinctive_roots_in_a_tree",
+        "children" : [ {
+          "name" : "test_distinctive_roots_in_a_tree[5-numbers0-input_data0-3]",
+          "uid" : "398bbb2e09f370d",
+          "parentUid" : "b55ecb71058113de8da33cfb727ff46a",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397556,
+            "stop" : 1618979397556,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "3", "[[1, 2], [1, 3], [2, 4], [2, 5]]", "5", "[2, 5, 1, 1, 4]" ]
+        }, {
+          "name" : "test_distinctive_roots_in_a_tree[5-numbers1-input_data1-0]",
+          "uid" : "fcb45336fe5c30e3",
+          "parentUid" : "b55ecb71058113de8da33cfb727ff46a",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397570,
+            "stop" : 1618979397570,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "0", "[[1, 2], [1, 3], [2, 4], [2, 5]]", "5", "[2, 1, 1, 1, 4]" ]
+        } ],
+        "uid" : "DistinctiveRootsInATree.test_distinctive_roots_in_a_tree"
+      }, {
+        "name" : "HillsAndValleys.test_hills_and_valleys",
+        "children" : [ {
+          "name" : "test_hills_and_valleys[4-input_data0-expected_result0]",
+          "uid" : "c1949e8b881b5de3",
+          "parentUid" : "af1ca8e2087b91a55060c20298eb3afa",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397572,
+            "stop" : 1618979397572,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "[[0], [0], [1], [0]]", "[[3], [1, 5, 3], [5], [2, 2, 2, 2, 2], [6], [1, 6, 2, 5, 2, 10], [5], [1, 6, 2, 5, 1]]", "4" ]
+        } ],
+        "uid" : "HillsAndValleys.test_hills_and_valleys"
+      }, {
+        "name" : "SumOfPaths.test_sum_of_paths",
+        "children" : [ {
+          "name" : "test_sum_of_pathsz[numbers0-numbers20-input_data0-expected_result0]",
+          "uid" : "565661f31760cb46",
+          "parentUid" : "ab44db8d46ebb9c7964bdce179d3114d",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397573,
+            "stop" : 1618979397573,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "[62, 58, 78, 86, 86]", "[[1, 9], [2, 4], [3, 6], [4, 6], [5, 2]]", "[5, 1, 5]", "[3, 5, 1, 4, 2]" ]
+        }, {
+          "name" : "test_sum_of_pathsz[numbers1-numbers21-input_data1-expected_result1]",
+          "uid" : "bcfb9491def7a489",
+          "parentUid" : "ab44db8d46ebb9c7964bdce179d3114d",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397575,
+            "stop" : 1618979397575,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "[239185261, 666314041, 50729936, 516818968, 766409450, 756910476]", "[[3, 56], [1, 72], [4, 28], [1, 97], [2, 49], [2, 88]]", "[4, 40, 6]", "[92, 21, 82, 46]" ]
+        } ],
+        "uid" : "SumOfPaths.test_sum_of_paths"
+      }, {
+        "name" : "ThreeBags.test_three_bags",
+        "children" : [ {
+          "name" : "test_three_bags[numbers0-input_data0-20]",
+          "uid" : "40710178379364e0",
+          "parentUid" : "7572f3a4e852031cd66e75151fc3d7ff",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397577,
+            "stop" : 1618979397577,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "20", "[[1, 2], [6, 3, 4, 5], [5]]", "[2, 4, 1]" ]
+        }, {
+          "name" : "test_three_bags[numbers1-input_data1-29]",
+          "uid" : "87ac7ddbdcffd116",
+          "parentUid" : "7572f3a4e852031cd66e75151fc3d7ff",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397579,
+            "stop" : 1618979397579,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "29", "[[7, 5, 4], [2, 9], [7, 1]]", "[3, 2, 2]" ]
+        } ],
+        "uid" : "ThreeBags.test_three_bags"
+      }, {
+        "name" : "WizardOfOrz.test_wizard_of_orz",
+        "children" : [ {
+          "name" : "test_wizard_of_orz[2-input_data0-expected_result0]",
+          "uid" : "a0301bbe1a9bd0b3",
+          "parentUid" : "abeb210cae694213c15aecfeea346165",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397580,
+            "stop" : 1618979397580,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['9', '98']", "[1, 2]", "2" ]
+        } ],
+        "uid" : "WizardOfOrz.test_wizard_of_orz"
+      } ],
+      "uid" : "events.e695"
+    }, {
+      "name" : "problems",
+      "children" : [ {
+        "name" : "CardsForFriends.test_cards_for_friends",
+        "children" : [ {
+          "name" : "test_cards_for_friends[5-cases0-expected_result0]",
+          "uid" : "ef565ed2617b1bfb",
+          "parentUid" : "bdee44a4a2e9d763d824fe0c3b82fabd",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397582,
+            "stop" : 1618979397582,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "[[2, 2, 3], [3, 3, 2], [5, 10, 2], [11, 13, 1], [1, 4, 4]]", "['YES', 'NO', 'YES', 'YES', 'YES']", "5" ]
+        } ],
+        "uid" : "CardsForFriends.test_cards_for_friends"
+      }, {
+        "name" : "FairDivision.test_fair_division",
+        "children" : [ {
+          "name" : "test_fair_division[5-cases0-expected_result0]",
+          "uid" : "54ec2bf7b68e35d7",
+          "parentUid" : "39dbe4fdae806e6749e77c10fefa9939",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397584,
+            "stop" : 1618979397584,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "[[[2], [1, 1]], [[2], [1, 2]], [[4], [1, 2, 1, 2]], [[3], [2, 2, 2]], [[3], [2, 1, 2]]]", "['YES', 'NO', 'YES', 'NO', 'NO']", "5" ]
+        } ],
+        "uid" : "FairDivision.test_fair_division"
+      }, {
+        "name" : "FourSegments.test_four_segments",
+        "children" : [ {
+          "name" : "test_four_segments[4-cases0-expected_result0]",
+          "uid" : "80c9438a9f1724a8",
+          "parentUid" : "5b874750fa47483781d1a6900745bfcf",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1618979397586,
+            "stop" : 1618979397586,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "[[1, 2, 3, 4], [5, 5, 5, 5], [3, 1, 4, 1], [100, 20, 20, 100]]", "[3, 25, 3, 2000]", "4" ]
+        } ],
+        "uid" : "FourSegments.test_four_segments"
+      }, {
+        "name" : "WasteSorting.test_waste_sorting",
+        "children" : [ {
+          "name" : "test_waste_sorting[7-cases0-expected_result0]",
+          "uid" : "6cf73cd64f7587db",
+          "parentUid" : "37145324ff24d967188822f23afaf1c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618979397590,
+            "stop" : 1618979397590,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "[[[1, 2, 3], [1, 2, 3, 0, 0]], [[2, 2, 3], [1, 2, 3, 1, 0]], [[2, 2, 3], [1, 2, 3, 0, 1]], [[1, 2, 5], [1, 2, 3, 1, 1]], [[0, 0, 0], [0, 0, 0, 0, 0]], [[0, 0, 4], [1, 0, 0, 0, 0]], [[13, 37, 42], [0, 0, 0, 40, 47]]]", "['YES', 'YES', 'NO', 'YES', 'YES', 'NO', 'YES']", "7" ]
+        } ],
+        "uid" : "WasteSorting.test_waste_sorting"
+      } ],
+      "uid" : "4888e632eb74ebe8cfd1ee911a0427e3"
+    } ],
+    "uid" : "src.test.java.testCoFo"
+  } ],
+  "name" : "packages"
+}

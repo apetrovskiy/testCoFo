@@ -1,0 +1,128 @@
+{
+  "uid" : "ef565ed2617b1bfb",
+  "name" : "test_cards_for_friends[5-cases0-expected_result0]",
+  "fullName" : "src.test.java.testCoFo.problems.CardsForFriends.test_cards_for_friends#test_cards_for_friends",
+  "historyId" : "cbab6d18f4bc405777bd8e9707b375a5",
+  "time" : {
+    "start" : 1618979397582,
+    "stop" : 1618979397582,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: TODO: no way of currently testing this",
+  "statusTrace" : "('/home/runner/work/testCoFo/testCoFo/src/test/java/testCoFo/problems/CardsForFriends/test_cards_for_friends.py', 13, 'Skipped: TODO: no way of currently testing this')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reason='TODO: no way of currently testing this')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCoFo.problems.CardsForFriends"
+  }, {
+    "name" : "suite",
+    "value" : "test_cards_for_friends"
+  }, {
+    "name" : "host",
+    "value" : "fv-az129-561"
+  }, {
+    "name" : "thread",
+    "value" : "3090-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCoFo.problems.CardsForFriends.test_cards_for_friends"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cases",
+    "value" : "[[2, 2, 3], [3, 3, 2], [5, 10, 2], [11, 13, 1], [1, 4, 4]]"
+  }, {
+    "name" : "expected_result",
+    "value" : "['YES', 'NO', 'YES', 'YES', 'YES']"
+  }, {
+    "name" : "number",
+    "value" : "5"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 6,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "b2604bb666b64bd3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/4//#testresult/b2604bb666b64bd3",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618948347482,
+          "stop" : 1618948347482,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "db0783c76193526",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/3//#testresult/db0783c76193526",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618612083967,
+          "stop" : 1618612083967,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6e6a0ba7c49fe024",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/2//#testresult/6e6a0ba7c49fe024",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618556436938,
+          "stop" : 1618556436938,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2e99799d2eacf1de",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/24//#testresult/2e99799d2eacf1de",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618555445810,
+          "stop" : 1618555445810,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b0d76d1c3186856e",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/23//#testresult/b0d76d1c3186856e",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618434886650,
+          "stop" : 1618434886650,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.skip(reason='TODO: no way of currently testing this')" ]
+  },
+  "source" : "ef565ed2617b1bfb.json",
+  "parameterValues" : [ "[[2, 2, 3], [3, 3, 2], [5, 10, 2], [11, 13, 1], [1, 4, 4]]", "['YES', 'NO', 'YES', 'YES', 'YES']", "5" ]
+}

@@ -1,0 +1,121 @@
+[ {
+  "uid" : "bcfb9491def7a489",
+  "name" : "test_sum_of_pathsz[numbers1-numbers21-input_data1-expected_result1]",
+  "time" : {
+    "start" : 1618979397575,
+    "stop" : 1618979397575,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "398bbb2e09f370d",
+  "name" : "test_distinctive_roots_in_a_tree[5-numbers0-input_data0-3]",
+  "time" : {
+    "start" : 1618979397556,
+    "stop" : 1618979397556,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ef565ed2617b1bfb",
+  "name" : "test_cards_for_friends[5-cases0-expected_result0]",
+  "time" : {
+    "start" : 1618979397582,
+    "stop" : 1618979397582,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "54ec2bf7b68e35d7",
+  "name" : "test_fair_division[5-cases0-expected_result0]",
+  "time" : {
+    "start" : 1618979397584,
+    "stop" : 1618979397584,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "40710178379364e0",
+  "name" : "test_three_bags[numbers0-input_data0-20]",
+  "time" : {
+    "start" : 1618979397577,
+    "stop" : 1618979397577,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6cf73cd64f7587db",
+  "name" : "test_waste_sorting[7-cases0-expected_result0]",
+  "time" : {
+    "start" : 1618979397590,
+    "stop" : 1618979397590,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0301bbe1a9bd0b3",
+  "name" : "test_wizard_of_orz[2-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1618979397580,
+    "stop" : 1618979397580,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "80c9438a9f1724a8",
+  "name" : "test_four_segments[4-cases0-expected_result0]",
+  "time" : {
+    "start" : 1618979397586,
+    "stop" : 1618979397586,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "87ac7ddbdcffd116",
+  "name" : "test_three_bags[numbers1-input_data1-29]",
+  "time" : {
+    "start" : 1618979397579,
+    "stop" : 1618979397579,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c1949e8b881b5de3",
+  "name" : "test_hills_and_valleys[4-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1618979397572,
+    "stop" : 1618979397572,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fcb45336fe5c30e3",
+  "name" : "test_distinctive_roots_in_a_tree[5-numbers1-input_data1-0]",
+  "time" : {
+    "start" : 1618979397570,
+    "stop" : 1618979397570,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "565661f31760cb46",
+  "name" : "test_sum_of_pathsz[numbers0-numbers20-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1618979397573,
+    "stop" : 1618979397573,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
