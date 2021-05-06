@@ -1,4 +1,5 @@
-from src.main.java.testCoFo.events.e695.DistinctiveRootsInATree.distinctive_roots_in_a_tree import distinctive_roots_in_a_tree
+from src.main.java.testCoFo.events.e695.DistinctiveRootsInATree.\
+    distinctive_roots_in_a_tree import distinctive_roots_in_a_tree
 import pytest
 from typing import List
 
@@ -9,7 +10,11 @@ test_data = [
 ]
 
 
-@ pytest.mark.parametrize("number,numbers,input_data,expected_result", test_data)
-def test_wizard_of_orz(number: int, numbers: List[int], input_data: List[List[int]], expected_result: int):
+@pytest.mark.skip(reason="TODO: no way of currently testing this")
+@ pytest.mark.parametrize(
+    "number,numbers,input_data,expected_result", test_data)
+def test_distinctive_roots_in_a_tree(number: int, numbers: List[int],
+                                     input_data: List[List[int]],
+                                     expected_result: int):
     assert expected_result == distinctive_roots_in_a_tree(
         number, numbers, input_data)
