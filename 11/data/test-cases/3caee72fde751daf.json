@@ -1,0 +1,188 @@
+{
+  "uid" : "3caee72fde751daf",
+  "name" : "test_fair_division[5-cases0-expected_result0]",
+  "fullName" : "src.test.java.testCoFo.problems.FairDivision.test_fair_division#test_fair_division",
+  "historyId" : "1c167cebd2180848db3058811aaadfbc",
+  "time" : {
+    "start" : 1620336033044,
+    "stop" : 1620336033044,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: TODO: no way of currently testing this",
+  "statusTrace" : "('/home/runner/work/testCoFo/testCoFo/src/test/java/testCoFo/problems/FairDivision/test_fair_division.py', 13, 'Skipped: TODO: no way of currently testing this')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reason='TODO: no way of currently testing this')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCoFo.problems.FairDivision"
+  }, {
+    "name" : "suite",
+    "value" : "test_fair_division"
+  }, {
+    "name" : "host",
+    "value" : "fv-az182-381"
+  }, {
+    "name" : "thread",
+    "value" : "2351-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCoFo.problems.FairDivision.test_fair_division"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cases",
+    "value" : "[[[2], [1, 1]], [[2], [1, 2]], [[4], [1, 2, 1, 2]], [[3], [2, 2, 2]], [[3], [2, 1, 2]]]"
+  }, {
+    "name" : "expected_result",
+    "value" : "['YES', 'NO', 'YES', 'NO', 'NO']"
+  }, {
+    "name" : "number",
+    "value" : "5"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 10,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 12
+      },
+      "items" : [ {
+        "uid" : "57b863bf3f683da9",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/10//#testresult/57b863bf3f683da9",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619847174707,
+          "stop" : 1619847174707,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "918b1bbf90555665",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/9//#testresult/918b1bbf90555665",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619385617393,
+          "stop" : 1619385617393,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1e9149ec84c54af5",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/8//#testresult/1e9149ec84c54af5",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383262740,
+          "stop" : 1619383262740,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "7c410eb5f3aa6772",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/7//#testresult/7c410eb5f3aa6772",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383215421,
+          "stop" : 1619383215421,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "423cb6590c8e85c1",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/6//#testresult/423cb6590c8e85c1",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619266308366,
+          "stop" : 1619266308366,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "54ec2bf7b68e35d7",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/5//#testresult/54ec2bf7b68e35d7",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618979397584,
+          "stop" : 1618979397584,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2c98a215fda4232b",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/4//#testresult/2c98a215fda4232b",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618948347484,
+          "stop" : 1618948347484,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a991425cdbe3989a",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/3//#testresult/a991425cdbe3989a",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618612083969,
+          "stop" : 1618612083969,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cbcec7363617f4a",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/2//#testresult/cbcec7363617f4a",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618556436940,
+          "stop" : 1618556436940,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3717303d635e421c",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/24//#testresult/3717303d635e421c",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert ['YES', 'NO',...', 'NO', 'NO'] == ['YES', 'NO',..., 'YES', 'NO']\n  At index 3 diff: 'NO' != 'YES'\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1618555445814,
+          "stop" : 1618555445815,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "c343fbb9c3e8856a",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/23//#testresult/c343fbb9c3e8856a",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert ['YES', 'NO',...', 'NO', 'NO'] == ['YES', 'NO',..., 'YES', 'NO']\n  At index 3 diff: 'NO' != 'YES'\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1618434886654,
+          "stop" : 1618434886655,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.skip(reason='TODO: no way of currently testing this')" ]
+  },
+  "source" : "3caee72fde751daf.json",
+  "parameterValues" : [ "[[[2], [1, 1]], [[2], [1, 2]], [[4], [1, 2, 1, 2]], [[3], [2, 2, 2]], [[3], [2, 1, 2]]]", "['YES', 'NO', 'YES', 'NO', 'NO']", "5" ]
+}

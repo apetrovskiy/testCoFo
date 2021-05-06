@@ -1,0 +1,198 @@
+{
+  "uid" : "1378652f0818cc71",
+  "name" : "test_three_bags[numbers0-input_data0-20]",
+  "fullName" : "src.test.java.testCoFo.events.e695.ThreeBags.test_three_bags#test_three_bags",
+  "historyId" : "00407123092af9fd996419f0404c736c",
+  "time" : {
+    "start" : 1620336033036,
+    "stop" : 1620336033036,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: TODO: no way of currently testing this",
+  "statusTrace" : "('/home/runner/work/testCoFo/testCoFo/src/test/java/testCoFo/events/e695/ThreeBags/test_three_bags.py', 12, 'Skipped: TODO: no way of currently testing this')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reason='TODO: no way of currently testing this')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCoFo.events.e695.ThreeBags"
+  }, {
+    "name" : "suite",
+    "value" : "test_three_bags"
+  }, {
+    "name" : "host",
+    "value" : "fv-az182-381"
+  }, {
+    "name" : "thread",
+    "value" : "2351-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCoFo.events.e695.ThreeBags.test_three_bags"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "20"
+  }, {
+    "name" : "input_data",
+    "value" : "[[1, 2], [6, 3, 4, 5], [5]]"
+  }, {
+    "name" : "numbers",
+    "value" : "[2, 4, 1]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 10,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 13
+      },
+      "items" : [ {
+        "uid" : "b4e4ac83809e46b3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/10//#testresult/b4e4ac83809e46b3",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619847174699,
+          "stop" : 1619847174699,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b2de6304b72bfd79",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/9//#testresult/b2de6304b72bfd79",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619385617386,
+          "stop" : 1619385617386,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b763e7a4c937eca7",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/8//#testresult/b763e7a4c937eca7",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383262734,
+          "stop" : 1619383262734,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "20d90677d31ca3a8",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/7//#testresult/20d90677d31ca3a8",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383215411,
+          "stop" : 1619383215411,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a8ee067e3be6402",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/6//#testresult/a8ee067e3be6402",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619266308360,
+          "stop" : 1619266308360,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "40710178379364e0",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/5//#testresult/40710178379364e0",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618979397577,
+          "stop" : 1618979397577,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "583e83ac8b56d456",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/4//#testresult/583e83ac8b56d456",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618948347477,
+          "stop" : 1618948347477,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d346db7b79a3d5c1",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/3//#testresult/d346db7b79a3d5c1",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618612083963,
+          "stop" : 1618612083963,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b7cdade82017527a",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/2//#testresult/b7cdade82017527a",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618556436933,
+          "stop" : 1618556436933,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cd6293ebe4e66d4d",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/24//#testresult/cd6293ebe4e66d4d",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 20 == 0\n +  where 0 = three_bags([2, 4, 1], [[1, 2], [6, 3, 4, 5], [5]])",
+        "time" : {
+          "start" : 1618555445793,
+          "stop" : 1618555445793,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e7d09502510852e9",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/23//#testresult/e7d09502510852e9",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 20 == 0\n +  where 0 = three_bags([2, 4, 1], [[1, 2], [6, 3, 4, 5], [5]])",
+        "time" : {
+          "start" : 1618434886635,
+          "stop" : 1618434886636,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ee8ff3e77afeab15",
+        "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/ee8ff3e77afeab15",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 20 == 0\n +  where 0 = three_bags([2, 4, 1], [[1, 2], [6, 3, 4, 5], [5]])",
+        "time" : {
+          "start" : 1618433481603,
+          "stop" : 1618433481604,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.skip(reason='TODO: no way of currently testing this')" ]
+  },
+  "source" : "1378652f0818cc71.json",
+  "parameterValues" : [ "20", "[[1, 2], [6, 3, 4, 5], [5]]", "[2, 4, 1]" ]
+}
