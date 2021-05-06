@@ -1,0 +1,121 @@
+[ {
+  "uid" : "93dbecdb28d9c76",
+  "name" : "test_sum_of_pathsz[numbers1-numbers21-input_data1-expected_result1]",
+  "time" : {
+    "start" : 1620336969921,
+    "stop" : 1620336969921,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f59ce98bdff24187",
+  "name" : "test_three_bags[numbers1-input_data1-29]",
+  "time" : {
+    "start" : 1620336969926,
+    "stop" : 1620336969926,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "652cf5e2f5a6071e",
+  "name" : "test_cards_for_friends[5-cases0-expected_result0]",
+  "time" : {
+    "start" : 1620336969929,
+    "stop" : 1620336969929,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e802ba78c32b6dbc",
+  "name" : "test_wizard_of_orz[2-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1620336969927,
+    "stop" : 1620336969927,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "98f357b59ac9e5aa",
+  "name" : "test_waste_sorting[7-cases0-expected_result0]",
+  "time" : {
+    "start" : 1620336969937,
+    "stop" : 1620336969937,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74731ab70db2a4ca",
+  "name" : "test_fair_division[5-cases0-expected_result0]",
+  "time" : {
+    "start" : 1620336969932,
+    "stop" : 1620336969932,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f4222e9bd21ff42b",
+  "name" : "test_distinctive_roots_in_a_tree[5-numbers1-input_data1-0]",
+  "time" : {
+    "start" : 1620336969913,
+    "stop" : 1620336969913,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2d81c622234e9ad5",
+  "name" : "test_four_segments[4-cases0-expected_result0]",
+  "time" : {
+    "start" : 1620336969933,
+    "stop" : 1620336969933,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "65b2b368db117ef",
+  "name" : "test_sum_of_pathsz[numbers0-numbers20-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1620336969918,
+    "stop" : 1620336969918,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "87ec3f5912758976",
+  "name" : "test_three_bags[numbers0-input_data0-20]",
+  "time" : {
+    "start" : 1620336969923,
+    "stop" : 1620336969923,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5f4f4438cab362e5",
+  "name" : "test_hills_and_valleys[4-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1620336969914,
+    "stop" : 1620336969914,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fe6f31b4be8fdd10",
+  "name" : "test_distinctive_roots_in_a_tree[5-numbers0-input_data0-3]",
+  "time" : {
+    "start" : 1620336969848,
+    "stop" : 1620336969848,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
