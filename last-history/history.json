@@ -3,12 +3,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 3,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "ce50ce276bb7d769",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/ce50ce276bb7d769",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848481,
+        "stop" : 1620722848481,
+        "duration" : 0
+      }
+    }, {
       "uid" : "5242f0a736aaea13",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/5242f0a736aaea13",
       "status" : "skipped",
@@ -196,27 +206,28 @@
         "stop" : 1618434886615,
         "duration" : 0
       }
-    }, {
-      "uid" : "efd2dea29bff53d",
-      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/efd2dea29bff53d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1618433481582,
-        "stop" : 1618433481582,
-        "duration" : 0
-      }
     } ]
   },
   "b491e3b7357121b658840622fa4e07bc" : {
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "fd0db8f399b6ec2a",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/fd0db8f399b6ec2a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848487,
+        "stop" : 1620722848487,
+        "duration" : 0
+      }
+    }, {
       "uid" : "94093fb89fa1634a",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/94093fb89fa1634a",
       "status" : "skipped",
@@ -406,16 +417,6 @@
         "stop" : 1618434886630,
         "duration" : 0
       }
-    }, {
-      "uid" : "965cfc29171afb04",
-      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/965cfc29171afb04",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: assert [239185261, 6...50, 756910476] == []\n  Left contains 6 more items, first extra item: 239185261\n  Use -v to get the full diff",
-      "time" : {
-        "start" : 1618433481597,
-        "stop" : 1618433481598,
-        "duration" : 1
-      }
     } ]
   },
   "04feec528c5e658e2b749d3244797219" : {
@@ -423,11 +424,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 19,
+      "passed" : 20,
       "unknown" : 0,
-      "total" : 19
+      "total" : 20
     },
     "items" : [ {
+      "uid" : "def094e7d834ef2d",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/def094e7d834ef2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620722848501,
+        "stop" : 1620722848502,
+        "duration" : 1
+      }
+    }, {
       "uid" : "4d782f9ef1e17274",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/4d782f9ef1e17274",
       "status" : "passed",
@@ -604,12 +614,22 @@
     "statistic" : {
       "failed" : 2,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 19
+      "total" : 20
     },
     "items" : [ {
+      "uid" : "d17f3a5e25564b33",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/d17f3a5e25564b33",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848498,
+        "stop" : 1620722848498,
+        "duration" : 0
+      }
+    }, {
       "uid" : "983720a0dcee447b",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/983720a0dcee447b",
       "status" : "skipped",
@@ -805,12 +825,22 @@
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "11289e107b11b54a",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/11289e107b11b54a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848491,
+        "stop" : 1620722848491,
+        "duration" : 0
+      }
+    }, {
       "uid" : "499e41f0772aa31b",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/499e41f0772aa31b",
       "status" : "skipped",
@@ -1000,28 +1030,28 @@
         "stop" : 1618434886640,
         "duration" : 0
       }
-    }, {
-      "uid" : "3fb00bf04b7218c9",
-      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/3fb00bf04b7218c9",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: assert 29 == 0\n +  where 0 = three_bags([3, 2, 2], [[7, 5, 4], [2, 9], [7, 1]])",
-      "time" : {
-        "start" : 1618433481608,
-        "stop" : 1618433481609,
-        "duration" : 1
-      }
     } ]
   },
   "dcbd7fa79b686f3d3e144aebc707858b" : {
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "bab91e25a4f569c2",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/bab91e25a4f569c2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848469,
+        "stop" : 1620722848469,
+        "duration" : 0
+      }
+    }, {
       "uid" : "6a8951798915c9d9",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/6a8951798915c9d9",
       "status" : "skipped",
@@ -1211,28 +1241,28 @@
         "stop" : 1618434886586,
         "duration" : 1
       }
-    }, {
-      "uid" : "3482626a089ec505",
-      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/3482626a089ec505",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: assert 3 == 0\n +  where 0 = distinctive_roots_in_a_tree(5, [2, 5, 1, 1, 4], [[1, 2], [1, 3], [2, 4], [2, 5]])",
-      "time" : {
-        "start" : 1618433481550,
-        "stop" : 1618433481550,
-        "duration" : 0
-      }
     } ]
   },
   "cbab6d18f4bc405777bd8e9707b375a5" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 19,
+      "skipped" : 20,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 19
+      "total" : 20
     },
     "items" : [ {
+      "uid" : "899f37d92abd9370",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/899f37d92abd9370",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848494,
+        "stop" : 1620722848494,
+        "duration" : 0
+      }
+    }, {
       "uid" : "5772f9b9d4184956",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/5772f9b9d4184956",
       "status" : "skipped",
@@ -1428,12 +1458,22 @@
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "d04106d0d1b20315",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/d04106d0d1b20315",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848485,
+        "stop" : 1620722848485,
+        "duration" : 0
+      }
+    }, {
       "uid" : "d85e335f02569ca9",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/d85e335f02569ca9",
       "status" : "skipped",
@@ -1623,28 +1663,28 @@
         "stop" : 1618434886625,
         "duration" : 0
       }
-    }, {
-      "uid" : "5f55a429641b6214",
-      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/5f55a429641b6214",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: assert [62, 58, 78, 86, 86] == []\n  Left contains 5 more items, first extra item: 62\n  Use -v to get the full diff",
-      "time" : {
-        "start" : 1618433481592,
-        "stop" : 1618433481592,
-        "duration" : 0
-      }
     } ]
   },
   "36bc2c8ddb92d8bb81c56d333f74c22d" : {
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "963ce0ebcd008530",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/963ce0ebcd008530",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848483,
+        "stop" : 1620722848483,
+        "duration" : 0
+      }
+    }, {
       "uid" : "2c58b6f20b970481",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/2c58b6f20b970481",
       "status" : "skipped",
@@ -1834,28 +1874,28 @@
         "stop" : 1618434886619,
         "duration" : 0
       }
-    }, {
-      "uid" : "fa209ebb34c1f096",
-      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/fa209ebb34c1f096",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: assert [[0], [0], [1], [0]] == [[0]]\n  Left contains 3 more items, first extra item: [0]\n  Use -v to get the full diff",
-      "time" : {
-        "start" : 1618433481586,
-        "stop" : 1618433481586,
-        "duration" : 0
-      }
     } ]
   },
   "1c167cebd2180848db3058811aaadfbc" : {
     "statistic" : {
       "failed" : 2,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 19
+      "total" : 20
     },
     "items" : [ {
+      "uid" : "76d5ecf827717e52",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/76d5ecf827717e52",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848496,
+        "stop" : 1620722848496,
+        "duration" : 0
+      }
+    }, {
       "uid" : "5779fea9b2221a5f",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/5779fea9b2221a5f",
       "status" : "skipped",
@@ -2051,12 +2091,22 @@
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "27a0df9514436cd0",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/27a0df9514436cd0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848489,
+        "stop" : 1620722848489,
+        "duration" : 0
+      }
+    }, {
       "uid" : "585332a309a6324",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/585332a309a6324",
       "status" : "skipped",
@@ -2246,28 +2296,28 @@
         "stop" : 1618434886636,
         "duration" : 1
       }
-    }, {
-      "uid" : "ee8ff3e77afeab15",
-      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/ee8ff3e77afeab15",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: assert 20 == 0\n +  where 0 = three_bags([2, 4, 1], [[1, 2], [6, 3, 4, 5], [5]])",
-      "time" : {
-        "start" : 1618433481603,
-        "stop" : 1618433481604,
-        "duration" : 1
-      }
     } ]
   },
   "344e9e7a0955b0800561fe208c171205" : {
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
-      "skipped" : 17,
+      "skipped" : 18,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "1ecb5647293f445b",
+      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19//#testresult/1ecb5647293f445b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: TODO: no way of currently testing this",
+      "time" : {
+        "start" : 1620722848492,
+        "stop" : 1620722848492,
+        "duration" : 0
+      }
+    }, {
       "uid" : "f24990b57c59ead1",
       "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18//#testresult/f24990b57c59ead1",
       "status" : "skipped",
@@ -2456,16 +2506,6 @@
         "start" : 1618434886645,
         "stop" : 1618434886646,
         "duration" : 1
-      }
-    }, {
-      "uid" : "21dcb4cc9c7338f2",
-      "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22//#testresult/21dcb4cc9c7338f2",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: assert ['9', '98'] == ['9']\n  Left contains one more item: '98'\n  Use -v to get the full diff",
-      "time" : {
-        "start" : 1618433481614,
-        "stop" : 1618433481614,
-        "duration" : 0
       }
     } ]
   }
