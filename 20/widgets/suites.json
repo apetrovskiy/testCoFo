@@ -1,4 +1,103 @@
 {
-  "total" : 0,
-  "items" : [ ]
+  "total" : 9,
+  "items" : [ {
+    "uid" : "96dbca27736d558866db2d21dece831e",
+    "name" : "src.test.java.testCoFo.problems.WasteSorting",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "7a75f51dfd34688c388912cc773699e5",
+    "name" : "src.test.java.testCoFo.events.e695.DistinctiveRootsInATree",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "c17ea260d953c19e1fce3f3eb7d063be",
+    "name" : "src.test.java.testCoFo.events.e695.SumOfPaths",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "12d1c466157bc0e901517830ea81ec43",
+    "name" : "src.test.java.testCoFo.events.e695.ThreeBags",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "5f3ad286ee575b2fc724dee088091cbe",
+    "name" : "src.test.java.testCoFo.events.e695.HillsAndValleys",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "649bd693d10152454f6b05d790c9451a",
+    "name" : "src.test.java.testCoFo.events.e695.WizardOfOrz",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "5c29a78e0a129205367e7419e1fa2c51",
+    "name" : "src.test.java.testCoFo.problems.CardsForFriends",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "4f29476ab25bb0832c42f443b3d48386",
+    "name" : "src.test.java.testCoFo.problems.FairDivision",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "bd8d06866e538198fcbd0d037ce557f8",
+    "name" : "src.test.java.testCoFo.problems.FourSegments",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
 }
