@@ -3,7 +3,7 @@
   "reportUrl" : "https://apetrovskiy.github.io/testCoFo/22/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "run" : 8,
+    "run" : 12,
     "retry" : 0
   }
 }, {
@@ -11,7 +11,7 @@
   "reportUrl" : "https://apetrovskiy.github.io/testCoFo/21/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "run" : 0,
+    "run" : 12,
     "retry" : 0
   }
 }, {
@@ -19,7 +19,7 @@
   "reportUrl" : "https://apetrovskiy.github.io/testCoFo/20/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "run" : 0,
+    "run" : 12,
     "retry" : 0
   }
 }, {
@@ -27,7 +27,135 @@
   "reportUrl" : "https://apetrovskiy.github.io/testCoFo/19/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "run" : 0,
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/17/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/16/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/15/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/11/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/10/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/8/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/4/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
     "retry" : 0
   }
 } ]

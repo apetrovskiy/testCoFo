@@ -1,81 +1,121 @@
 [ {
-  "uid" : "efd2dea29bff53d",
-  "name" : "test_distinctive_roots_in_a_tree[5-numbers1-input_data1-0]",
+  "uid" : "748584c3c6f6f8b4",
+  "name" : "test_four_segments[4-cases0-expected_result0]",
   "time" : {
-    "start" : 1618433481582,
-    "stop" : 1618433481582,
+    "start" : 1620917626267,
+    "stop" : 1620917626267,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b6809b6317e283bb",
+  "name" : "test_cards_for_friends[5-cases0-expected_result0]",
+  "time" : {
+    "start" : 1620917626264,
+    "stop" : 1620917626264,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e245976ad12f783b",
+  "name" : "test_sum_of_pathsz[numbers1-numbers21-input_data1-expected_result1]",
+  "time" : {
+    "start" : 1620917626257,
+    "stop" : 1620917626257,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4c0d87720bb97c91",
+  "name" : "test_waste_sorting[7-cases0-expected_result0]",
+  "time" : {
+    "start" : 1620917626270,
+    "stop" : 1620917626270,
     "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3482626a089ec505",
+  "uid" : "83338cbde4643110",
   "name" : "test_distinctive_roots_in_a_tree[5-numbers0-input_data0-3]",
   "time" : {
-    "start" : 1618433481550,
-    "stop" : 1618433481550,
+    "start" : 1620917626201,
+    "stop" : 1620917626201,
     "duration" : 0
   },
-  "status" : "failed",
+  "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "3fb00bf04b7218c9",
-  "name" : "test_three_bags[numbers1-input_data1-29]",
+  "uid" : "33e0ba0e46a40d3b",
+  "name" : "test_fair_division[5-cases0-expected_result0]",
   "time" : {
-    "start" : 1618433481608,
-    "stop" : 1618433481609,
-    "duration" : 1
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "21dcb4cc9c7338f2",
-  "name" : "test_wizard_of_orz[2-input_data0-expected_result0]",
-  "time" : {
-    "start" : 1618433481614,
-    "stop" : 1618433481614,
+    "start" : 1620917626265,
+    "stop" : 1620917626265,
     "duration" : 0
   },
-  "status" : "failed",
+  "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "965cfc29171afb04",
-  "name" : "test_sum_of_pathsz[numbers1-numbers21-input_data1-expected_result1]",
+  "uid" : "74e5eb098c78598e",
+  "name" : "test_distinctive_roots_in_a_tree[5-numbers1-input_data1-0]",
   "time" : {
-    "start" : 1618433481597,
-    "stop" : 1618433481598,
-    "duration" : 1
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "fa209ebb34c1f096",
-  "name" : "test_hills_and_valleys[4-input_data0-expected_result0]",
-  "time" : {
-    "start" : 1618433481586,
-    "stop" : 1618433481586,
+    "start" : 1620917626250,
+    "stop" : 1620917626250,
     "duration" : 0
   },
-  "status" : "failed",
+  "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "ee8ff3e77afeab15",
-  "name" : "test_three_bags[numbers0-input_data0-20]",
-  "time" : {
-    "start" : 1618433481603,
-    "stop" : 1618433481604,
-    "duration" : 1
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "5f55a429641b6214",
+  "uid" : "c449f0f572a7142a",
   "name" : "test_sum_of_pathsz[numbers0-numbers20-input_data0-expected_result0]",
   "time" : {
-    "start" : 1618433481592,
-    "stop" : 1618433481592,
+    "start" : 1620917626253,
+    "stop" : 1620917626253,
     "duration" : 0
   },
-  "status" : "failed",
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3bbe444aa8ade8d4",
+  "name" : "test_three_bags[numbers0-input_data0-20]",
+  "time" : {
+    "start" : 1620917626259,
+    "stop" : 1620917626259,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5069577b5ee2b55e",
+  "name" : "test_wizard_of_orz[2-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1620917626262,
+    "stop" : 1620917626262,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4044a76615832af6",
+  "name" : "test_three_bags[numbers1-input_data1-29]",
+  "time" : {
+    "start" : 1620917626260,
+    "stop" : 1620917626260,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4b2c13ebeef6866c",
+  "name" : "test_hills_and_valleys[4-input_data0-expected_result0]",
+  "time" : {
+    "start" : 1620917626251,
+    "stop" : 1620917626251,
+    "duration" : 0
+  },
+  "status" : "skipped",
   "severity" : "normal"
 } ]
