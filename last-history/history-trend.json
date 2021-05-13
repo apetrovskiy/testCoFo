@@ -1,4 +1,16 @@
 [ {
+  "buildOrder" : 21,
+  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/21/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 11,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 12
+  }
+}, {
   "buildOrder" : 20,
   "reportUrl" : "https://apetrovskiy.github.io/testCoFo/20/",
   "reportName" : "Allure Report with history",
@@ -223,18 +235,6 @@
     "broken" : 0,
     "skipped" : 11,
     "passed" : 1,
-    "unknown" : 0,
-    "total" : 12
-  }
-}, {
-  "buildOrder" : 24,
-  "reportUrl" : "https://apetrovskiy.github.io/testCoFo/24/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "failed" : 9,
-    "broken" : 0,
-    "skipped" : 1,
-    "passed" : 2,
     "unknown" : 0,
     "total" : 12
   }
